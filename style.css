@@ -1,0 +1,69 @@
+* {
+    font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+/* Styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+img {
+    width: 28px;
+    height: 28px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+li.vous {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+p.fin {
+    font-size: 5px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Styles spécifiques */
+#presentation p {
+    line-height: 1.5;
+}
+
+#objectifs ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
